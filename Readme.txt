@@ -28,7 +28,7 @@
 	=> Create the file path.txt add the desired path
 
 - If you encounter: Error has happned! Try Again
-	=> Rerun the application and contact the developer if the issue persist
+	=> Rerun the application and contact me if the issue persist through my email or linked in: 3omaroueidat4321@gmail.com
 
 
  ______________________________________
